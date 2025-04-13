@@ -29,15 +29,10 @@ npm run start
 - `/innosuisse-front`: Contains the frontend code
 - `/innosuisse-back`: Contains the backend API and database connections
 
-## Features
-- Interactive dashboard with data visualizations
-- Natural language processing for intuitive searches
-- Export functionality for data analysis
-- User-friendly interface for exploring Swiss startup ecosystem
-
 ## Technology Stack
 - Frontend: React with modern UI components
-- Backend: Node.js with Express
+- Backend: NestJS
 - Database: Optimized for quick data retrieval and analysis
+- AI: LangChain, OpenAI
 
 Enjoy exploring the Swiss startup ecosystem!
